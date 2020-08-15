@@ -6,7 +6,7 @@ namespace mynewprg
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World hhi hi hi hi!");
+            Console.WriteLine("Hello World hhi hi hi hi hello hi niti!");
         }
     }
 }
